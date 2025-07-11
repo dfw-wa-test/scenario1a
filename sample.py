@@ -8,7 +8,7 @@ import random
 import requests
 
 # 1. Hard-coded secret (BAD PRACTICE)
-API_TOKEN = "ghp_FAKE1234567890SECRET"
+API_TOKEN = "ghp_FAKE1234567890SECRET_newchange"
 # new file change
 
 # 2. Insecure random token (predictable)

@@ -11,6 +11,10 @@ import requests
 API_TOKEN = "ghp_FAKE1234567890SECRET_newchange"
 API_TOKEN2 = "ghp_FAKE1234567890SECRET_newchange2"
 API_TOKEN3 = "ghp_FAKE1234567890SECRET_newchange3"
+
+my_custom_variable = "ghp_FAKE1234567890SECRET_newchange4"
+password = "ghp_FAKE1234567890SECRET_newchange5"
+
 # new file change
 
 # 2. Insecure random token (predictable)

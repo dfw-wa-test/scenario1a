@@ -9,6 +9,7 @@ import requests
 
 # 1. Hard-coded secret (BAD PRACTICE)
 API_TOKEN = "ghp_FAKE1234567890SECRET_newchange"
+API_TOKEN2 = "ghp_FAKE1234567890SECRET_newchange2"
 # new file change
 
 # 2. Insecure random token (predictable)
